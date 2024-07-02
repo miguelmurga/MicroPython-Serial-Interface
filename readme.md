@@ -56,5 +56,4 @@ Below is a screenshot of the `ophyra.py` script running on the Ophyra board. The
    Clone the repository and navigate to the project directory:
 
    ```sh
-   git clone <REPOSITORY_URL>
-   cd <REPOSITORY_NAME>
+   git clone https://github.com/miguelmurga/MicroPython-Serial-Interface.git
